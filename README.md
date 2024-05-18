@@ -2,12 +2,12 @@
 
 Kickstarter is a popular crowdfunding platform that enables individuals, entrepreneurs, and creators to fund their creative projects, ideas, or products by raising money from a community of backers. Launched in 2009,
 Kickstarter has become a go-to platform for artists, musicians, filmmakers, designers, inventors, and other creative individuals seeking financial support for their ventures.
-ProcessImport data- First of all We have imported the kickstarter_projects data in .csv file through get data option in Power BI
+Process.Import data- First of all We have imported the kickstarter_projects data in .csv file through get data option in Power BI
 Clean the data- In power query editor we have edited the data by Converting ID into text and launched and Deadline column into date and extract Start of Month and Start of Year for calculation Purpose.
 Calculations- Here We have used DAX function like IF,Count,Average,Calculated and Distinct to calculate average numbers of backers and percentage of successful and failed Projects.
 Visualization-We Have used Some Cards and Charts here .Bar and Column chart for comparison of Sucessful projects by time range and countrywise respectively.Donut chart for percentage distribution of different
 State,line charts for trends of successful Projects by the year and treemap is used to display hierarchical category data.
-Outcome
+Outcome.
 1) In donut chart the data reveals that the overall success rate is 35.71% and 52.71 % projects are failed.
 
 3) Country wise United States has more successful Projects and Italy has lowest successful projects.
