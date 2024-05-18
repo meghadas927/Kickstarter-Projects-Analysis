@@ -1,4 +1,5 @@
 **Kickstarter Projects Insights**
+
 Kickstarter is a popular crowdfunding platform that enables individuals, entrepreneurs, and creators to fund their creative projects, ideas, or products by raising money from a community of backers. Launched in 2009,
 Kickstarter has become a go-to platform for artists, musicians, filmmakers, designers, inventors, and other creative individuals seeking financial support for their ventures.
 ProcessImport data- First of all We have imported the kickstarter_projects data in .csv file through get data option in Power BI
@@ -19,4 +20,5 @@ optimize the strategy. Geographic analysis unveils the regions with the most sig
 our view, focusing on specific aspects such as category, country, or funding status. Additional insights like country wise success rates and year wise success rates gives us a deeper understanding of campaign
 effectiveness. In essence, the Kickstarter dashboard serves as a strategic tool, empowering us to make informed decisions, enhance engagement, and steer our projects towards success in the dynamic world of
 crowdfunding.
-#powerbi #kickstarter #crowdfunding
+
+**#powerbi #kickstarter #crowdfunding**
