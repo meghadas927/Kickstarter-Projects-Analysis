@@ -1,6 +1,4 @@
-# Kickstarter-Projects-Analysis
-BItools#PowerBI# Data Visualization#BusinessIntelligence#DataInsights
-Kickstarter Projects Insights
+**Kickstarter Projects Insights**
 Kickstarter is a popular crowdfunding platform that enables individuals, entrepreneurs, and creators to fund their creative projects, ideas, or products by raising money from a community of backers. Launched in 2009,
 Kickstarter has become a go-to platform for artists, musicians, filmmakers, designers, inventors, and other creative individuals seeking financial support for their ventures.
 ProcessImport data- First of all We have imported the kickstarter_projects data in .csv file through get data option in Power BI
